@@ -1,7 +1,30 @@
+
 * {
   margin: 0;
   padding: 0;
 }
 h1 {
-  font-weight: bold;
+    text-decoration: dotted;
+    margin: auto;
+}
+
+p {
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2 {
+    
+    text-decoration: dotted;
+    margin: auto;
+}
+img {
+    border: 1px solid bisque;
+    height: 200px;
+    width: 300px;
+
+}
+body {
+    border: 1px solid black;
+    padding: 2em;
+    background-color: darkgrey;
 }
