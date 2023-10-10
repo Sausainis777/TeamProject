@@ -1,15 +1,21 @@
-h1{
+h1 {
     color: blue;
     text-decoration: dotted;
     margin: auto;
 }
 
-p{
+p {
     background-color: aqua;
 }
 
-h2{
+h2 {
     color: blue;
     text-decoration: dotted;
     margin: auto;
+}
+img {
+    border: 1px solid bisque;
+    height: 200px;
+    width: 300px;
+
 }
